@@ -19,7 +19,7 @@
 # git reset --hard HEAD~1 # перейти на попередню версію зі зміною вмисту файлів
 # --hard # перейти на вибрану версію зі зміною вмисту файлів
 # git reset --hard 618b726 # повернення на версію з вказаним id в hard режимі - зі зміною вмісту файлів
-# git feflog
+# git reflog
 # git branch <branch_name> #створюеться нова гилка
 # git checkout <branch_name> #переходимо у вказану гилку
 # git checkout master #перехід на головну гилку
