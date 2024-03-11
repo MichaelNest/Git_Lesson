@@ -23,4 +23,6 @@
 # git branch <branch_name> #створюеться нова гилка
 # git checkout <branch_name> #переходимо у вказану гилку
 # git checkout master #перехід на головну гилку
-# giy branck -d <branch_name> #удалить вказану гилку
+# git branch -d <branch_name> #удалить вказану гилку
+# git merge forum #зьеднання гилки з мастер=гилкою
+# 
