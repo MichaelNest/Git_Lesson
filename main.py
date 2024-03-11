@@ -25,4 +25,8 @@
 # git checkout master #перехід на головну гилку
 # git branch -d <branch_name> #удалить вказану гилку
 # git merge forum #зьеднання гилки з мастер=гилкою
-# 
+# git remote add origin https://github.com/MichaelNest/Git_Lesson.git #підключення до удаленного репозіторія GitHub
+# git remote #подивитись до якого удаленного репозіторія підключено - до репозіторія на імя origin
+# git remote remove origin #відключитися від удаленного репозіторія на імя origin
+# git push -u origin master #залівка локального репозіторія на удаленний
+#
