@@ -30,4 +30,4 @@
 # git remote remove origin #відключитися від удаленного репозіторія на імя origin
 # git push -u origin master #залівка локального репозіторія на удаленний
 # git clone https://github.com/MichaelNest/Git_Lesson.git # клонировать проект до себе
-#
+# git pull #скачать обновления проекта з удаленного репозитория
