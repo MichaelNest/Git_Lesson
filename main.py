@@ -29,4 +29,5 @@
 # git remote #подивитись до якого удаленного репозіторія підключено - до репозіторія на імя origin
 # git remote remove origin #відключитися від удаленного репозіторія на імя origin
 # git push -u origin master #залівка локального репозіторія на удаленний
+# git clone https://github.com/MichaelNest/Git_Lesson.git # клонировать проект до себе
 #
